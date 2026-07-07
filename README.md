@@ -100,11 +100,7 @@ Frontend Developer • Aspiring Software Engineer • Open Source Learner 🌸
 
 ---
 
-## 📊 GitHub Metrics
 
-<p align="center">
-<img src="./github-metrics.svg">
-</p>
 
 
 
