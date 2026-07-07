@@ -1,14 +1,19 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Pratheeksha+🌸;Computer+Science+Student;Building+Projects+✨;Always+Learning+Something+New+💜" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4,E6E6FA,87CEFA&height=220&section=header&text=Pratheeksha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=30&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Pratheeksha+🌸;Always+Learning+✨;Welcome+to+my+GitHub+💜">
 </p>
 
 <h1 align="center">Hi there! I'm Pratheeksha 👋🌸</h1>
 
 <p align="center">
-Computer Science Student • Aspiring Software Engineer • India 🇮🇳
+Frontend Develooper • Aspiring Software Engineer •
 </p>
 
 ---
+<img src="https://user-images.githubusercontent.com/74038190/216656986-14f2d0f0-b6b2-4d0e-9d53-f3c1d3cb0f4f.gif" width="100%">
 
 ## 🌷 About Me
 
@@ -19,6 +24,10 @@ I love learning through projects, solving problems, and challenging myself with 
 🌸 I believe consistency, curiosity, and creativity are the keys to becoming a great software engineer.
 
 ---
+
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350">
+</p>
 
 ## 💜 Current Focus
 
