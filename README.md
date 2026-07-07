@@ -6,7 +6,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=30&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Pratheeksha+🌸;Always+Learning+✨;Welcome+to+my+GitHub+💜">
 </p>
 
-<h1 align="center">Hi there! I'm Pratheeksha 👋🌸</h1>
 
 <p align="center">
 Frontend Develooper • Aspiring Software Engineer •
