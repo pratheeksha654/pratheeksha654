@@ -99,3 +99,49 @@ Frontend Develooper • Aspiring Software Engineer •
 ![](https://streak-stats.demolab.com?user=pratheeksha654&theme=tokyonight&hide_border=true)
 
 ---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=pratheeksha654&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+[![Pratheeksha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pratheeksha654&theme=tokyo-night)](https://github.com/pratheeksha654)
+
+---
+
+## 💭 Daily Inspiration
+
+<p align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/pratheeksha654">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4,E6E6FA,87CEFA&height=120&section=footer"/>
+</p>
