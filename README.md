@@ -100,6 +100,8 @@ Frontend Develooper • Aspiring Software Engineer •
 
 ---
 
+
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
