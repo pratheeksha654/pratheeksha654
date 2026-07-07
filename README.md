@@ -102,13 +102,6 @@ Frontend Developer • Aspiring Software Engineer • Open Source Learner 🌸
 
 
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pratheeksha654&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ## 📈 Contribution Graph
 
