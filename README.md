@@ -8,7 +8,7 @@
 
 
 <p align="center">
-Frontend Develooper • Aspiring Software Engineer •
+Frontend Developer • Aspiring Software Engineer • Open Source Learner 🌸
 </p>
 
 ---
@@ -135,7 +135,6 @@ Frontend Develooper • Aspiring Software Engineer •
 </p>
 
 ---
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4,E6E6FA,87CEFA&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1,E6E6FA,C9A9FF&height=120&section=footer"/>
 </p>
