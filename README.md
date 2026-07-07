@@ -14,13 +14,19 @@ Frontend Develooper • Aspiring Software Engineer •
 ---
 <img src="https://user-images.githubusercontent.com/74038190/216656986-14f2d0f0-b6b2-4d0e-9d53-f3c1d3cb0f4f.gif" width="100%">
 
-## 🌷 About Me
+## 🌸 About Me
 
-I'm a Computer Science Engineering student who enjoys building software and exploring new technologies.
+🎓 Computer Science Engineering Student
 
-I love learning through projects, solving problems, and challenging myself with new ideas. Every project I build teaches me something new, and I'm excited to keep growing as a developer.
+💻 Passionate about Software Development
 
-🌸 I believe consistency, curiosity, and creativity are the keys to becoming a great software engineer.
+✨ Building meaningful projects with creativity and curiosity
+
+🌱 Constantly exploring new technologies
+
+🧩 Love solving problems and learning through hands-on experience
+
+🚀 Aspiring Full Stack Developer
 
 ---
 
