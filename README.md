@@ -92,24 +92,27 @@ Frontend Developer • Aspiring Software Engineer • Open Source Learner 🌸
 
 ## 📊 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=pratheeksha654&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pratheeksha654&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratheeksha654&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratheeksha654&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-![](https://streak-stats.demolab.com?user=pratheeksha654&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pratheeksha654&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 
 
 
-
-
 ## 📈 Contribution Graph
 
-<p align="center">
 [![Pratheeksha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pratheeksha654&theme=tokyo-night)](https://github.com/pratheeksha654)
-</p>
+
 ---
 
 
