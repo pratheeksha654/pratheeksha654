@@ -107,15 +107,16 @@ Frontend Developer • Aspiring Software Engineer • Open Source Learner 🌸
 
 ## 📈 Contribution Graph
 
+<p align="center">
 [![Pratheeksha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pratheeksha654&theme=tokyo-night)](https://github.com/pratheeksha654)
-
+</p>
 ---
 
----
+
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/pratheeksha-k-b9245035b">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
