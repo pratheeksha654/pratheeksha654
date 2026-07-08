@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4,E6E6FA,87CEFA&height=220&section=header&text=Pratheeksha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Pratheeksha&fontSize=50&fontColor=ffffff&animation=twinkling&color=gradient&customColorList=12,20,30"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=30&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Pratheeksha+🌸;Always+Learning+✨;Welcome+to+my+GitHub+💜">
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=30&pause=1000&color=FF8CC8&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Pratheeksha+🌸;Frontend+Developer;Always+Learning+✨;Building+Beautiful+Web+Experiences💜"/>
 </p>
 
 
@@ -144,6 +144,7 @@ Frontend Developer • Aspiring Software Engineer • Open Source Learner 🌸
 </p>
 
 ---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F7FD5,86A8E7,91EAE4&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,30"/>
 </p>
