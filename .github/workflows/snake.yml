@@ -17,8 +17,8 @@ jobs:
         with:
           github_user_name: pratheeksha654
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            outputs: |
+  dist/github-contribution-grid-snake.svg?color_snake=#FF66C4&color_dots=#FFF0F6,#FFD6E8,#FFADD2,#FF66C4,#C9184A
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
