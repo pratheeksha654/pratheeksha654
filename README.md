@@ -114,11 +114,10 @@ Frontend Developer • Aspiring Software Engineer • Open Source Learner 🌸
 [![Pratheeksha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pratheeksha654&theme=tokyo-night)](https://github.com/pratheeksha654)
 
 ---
-
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pratheeksha654/pratheeksha654/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/pratheeksha654/pratheeksha654/output/github-snake.svg" alt="Snake Animation">
 </p>
 
 ---
