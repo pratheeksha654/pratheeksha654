@@ -92,13 +92,7 @@ Frontend Developer • Aspiring Software Engineer • Open Source Learner 🌸
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratheeksha654&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratheeksha654&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pratheeksha654&theme=tokyonight&hide_border=true" />
