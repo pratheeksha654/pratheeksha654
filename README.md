@@ -101,7 +101,7 @@ Frontend Developer • Aspiring Software Engineer • Open Source Learner 🌸
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pratheeksha654&theme=omni&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=pratheeksha654&theme=radicali&hide_border=true" />
 </p>
 
 ---
