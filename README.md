@@ -115,6 +115,14 @@ Frontend Developer • Aspiring Software Engineer • Open Source Learner 🌸
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pratheeksha654/pratheeksha654/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+---
+
 
 
 ## 🌐 Connect With Me
