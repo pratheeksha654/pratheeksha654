@@ -124,9 +124,7 @@ Frontend Developer • Aspiring Software Engineer • Open Source Learner 🌸
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/pratheeksha654">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+
 </p>
 
 ---
