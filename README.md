@@ -92,12 +92,12 @@
 <h2>📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pratheeksha654&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pratheeksha654&layout=compact&theme=radical&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pratheeksha654&show_icons=true&theme=tokyo-night&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pratheeksha654&layout=compact&theme=tokyo-night&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pratheeksha654&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=pratheeksha654&theme=tokyo-night&hide_border=true"/>
 </p>
 ---
 
@@ -144,6 +144,12 @@
 </p>
 
 ---
+
+<p align="center">
+<i>✨ "Every line of code is one step closer to the developer I aspire to become." ✨</i>
+</p>
+
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,30"/>
