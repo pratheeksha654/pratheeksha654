@@ -10,7 +10,7 @@
 <b>🌸 Frontend Developer • Aspiring Software Engineer • Open Source Learner 🌸</b>
 </p>
 
----
+
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━━━━ ✿ ━━━━━━━━━━━━━━━━━━━━━━━
 </p>
@@ -28,8 +28,9 @@
 🧩 Love solving problems and learning through hands-on experience
 
 🚀 Aspiring Full Stack Developer
-
----
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━ ✿ ━━━━━━━━━━━━━━━━━━━━━━━
+</p>-
 
 <p align="center">
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350">
@@ -42,7 +43,9 @@
 - 💡 Improving problem-solving skills
 - 🤝 Open to learning and collaboration
 
----
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━ ✿ ━━━━━━━━━━━━━━━━━━━━━━━
+</p>
 
 ## 🛠️ Tech Stack
 
@@ -89,7 +92,9 @@
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
----
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━ ✿ ━━━━━━━━━━━━━━━━━━━━━━━
+</p>
 
 ## 📊 GitHub Analytics
 
@@ -104,7 +109,9 @@
   <img src="https://streak-stats.demolab.com?user=pratheeksha654&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━ ✿ ━━━━━━━━━━━━━━━━━━━━━━━
+</p>
 
 
 
@@ -128,7 +135,9 @@
   </picture>
 </p>
 
----
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━ ✿ ━━━━━━━━━━━━━━━━━━━━━━━
+</p>
 
 
 
@@ -148,7 +157,9 @@
 
 </p>
 
----
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━ ✿ ━━━━━━━━━━━━━━━━━━━━━━━
+</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,30"/>
