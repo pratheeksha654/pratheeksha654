@@ -24,8 +24,9 @@
 🌱 Constantly exploring new technologies
 
 🧩 Love solving problems and learning through hands-on experience
+🚀 Aspiring FullStack Developer
 
-🚀 Aspiring Full Stack Developer
+
 ---
 
 <p align="center">
@@ -43,9 +44,9 @@
 
 ## 🛠️ Tech Stack
 
-<h2 align="center">💻 Languages</h2>
+<h2 >💻 Languages</h2>
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -53,7 +54,7 @@
 
 ### 🎨 Frontend
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
@@ -70,7 +71,7 @@
 
 ### 🗄 Database
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -78,7 +79,7 @@
 
 ### 🧰 Tools
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
@@ -88,7 +89,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2>📊 GitHub Analytics</h2>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pratheeksha654&show_icons=true&theme=radical&hide_border=true"/>
