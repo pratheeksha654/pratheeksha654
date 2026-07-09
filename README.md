@@ -3,12 +3,11 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=30&pause=1000&color=FF8CC8&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Pratheeksha+🌸;Frontend+Developer;Always+Learning+✨;Building+Beautiful+Web+Experiences💜"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=30&duration=3500&pause=1000&color=FF8CC8&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Pratheeksha+🌸;Frontend+Developer+💻;Always+Learning+✨;Building+Beautiful+Web+Experiences+💜">
 </p>
 
-
 <p align="center">
-Frontend Developer • Aspiring Software Engineer • Open Source Learner 🌸
+<b>🌸 Frontend Developer • Aspiring Software Engineer • Open Source Learner 🌸</b>
 </p>
 
 ---
