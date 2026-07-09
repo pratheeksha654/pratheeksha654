@@ -11,7 +11,9 @@
 </p>
 
 ---
-<img src="https://user-images.githubusercontent.com/74038190/216656986-14f2d0f0-b6b2-4d0e-9d53-f3c1d3cb0f4f.gif" width="100%">
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━ ✿ ━━━━━━━━━━━━━━━━━━━━━━━
+</p>
 
 ## 🌸 About Me
 
