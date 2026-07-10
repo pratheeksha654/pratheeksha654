@@ -10,9 +10,7 @@
 <b>🌸 Frontend Developer • Aspiring Software Engineer • Open Source Learner 🌸</b>
 </p>
 
-
 ---
-
 ## 🌸 About Me
 
 🎓 Computer Science Engineering Student
@@ -101,8 +99,6 @@
 ---
 
 
-
-
 ## 📈 Contribution Graph
 
 [![Pratheeksha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pratheeksha654&theme=react)](https://github.com/pratheeksha654)
@@ -123,9 +119,6 @@
 </p>
 
 ---
-
-
-
 
 
 ## 🌐 Connect With Me
