@@ -131,8 +131,6 @@
 <a href="mailto:pratheekshak05@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-
 </p>
 
 ---
@@ -142,7 +140,8 @@
 </p>
 
 
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,30"/>
 </p>
+
+
