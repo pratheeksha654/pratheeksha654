@@ -93,7 +93,7 @@
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pratheeksha654&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pratheeksha654&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=pratheeksha654&theme=tokyonight&hide_border=true"/>
 </p>
 ---
 
