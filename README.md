@@ -21,8 +21,10 @@
 
 🌱 Constantly exploring new technologies
 
-🧩 Love solving problems and learning through hands-on experience
+🧩Love solving problems and learning through hands-on experience
+
 🚀 Aspiring FullStack Developer
+
 ---
 
 <p align="center">
