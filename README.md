@@ -115,9 +115,7 @@
       src="https://raw.githubusercontent.com/pratheeksha654/pratheeksha654/output/github-snake.svg">
   </picture>
 </p>
-
 ---
-
 
 ## 🌐 Connect With Me
 
