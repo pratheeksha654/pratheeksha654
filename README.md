@@ -95,6 +95,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pratheeksha654&theme=tokyonight&hide_border=true&cache_seconds=1" />
 </p>
+
 ---
 
 ## 📈 Contribution Graph
@@ -115,6 +116,7 @@
       src="https://raw.githubusercontent.com/pratheeksha654/pratheeksha654/output/github-snake.svg">
   </picture>
 </p>
+
 ---
 
 ## 🌐 Connect With Me
