@@ -93,13 +93,8 @@
 
 <h2>📊 GitHub Analytics</h2>
 
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/pratheeksha654/pratheeksha654/main/github-metrics.svg"
-    alt="Pratheeksha's GitHub Metrics"
-    width="700"
-  />
-</p>
+
+ 
 
 <p align="center">
   <img 
